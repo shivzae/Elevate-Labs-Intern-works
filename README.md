@@ -1,4 +1,4 @@
-![Internship Banner]"(./elevate logo.png")
+![Internship Banner](./elevate%20logo.png)
 
 
 # 💼 Internship Portfolio – Data Analytics Projects
